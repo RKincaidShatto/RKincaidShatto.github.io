@@ -1,5 +1,4 @@
  body 
  {background-color: rgba(0, 0, 0, 1);}
- p {color:white;}
-
- a {color: green;}
+ 
+a, p, h1, h2, h2 { color: white; }
