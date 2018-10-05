@@ -1,3 +1,6 @@
-<body>
-    background-color:#1A0015;
-</body>
+<style>
+ body {background-color: rgba(0, 0, 0, 0.77);}
+ p {color:white;}
+
+ a {color: green;}
+</style>
