@@ -1,4 +1,4 @@
- body 
+ body {padding-top: 3.5rem;}
  {background-color: rgba(0, 0, 0, 1);}
  
 p, h1, h2, h3, tr, th { color: white; }
