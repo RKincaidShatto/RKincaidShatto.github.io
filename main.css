@@ -1,3 +1,7 @@
  body {padding-top: 3.5rem;}
  
 a { color: blue; }
+body {
+    background-image: url("./BGcenter.png");
+    background-color: #cccccc;
+ }
