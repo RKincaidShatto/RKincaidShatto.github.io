@@ -1,10 +1,24 @@
- body {padding-top: 3.5rem;}
- 
-a { color: blue; }
+ a { color: blue; }
 body {
     background-image: url("https://www.pixeden.com/media/k2/galleries/165/001-subtle-light-pattern-background-texture-vol5.jpg");
     background-color: #cccccc;
  }
- .container2 {
+ .bottomContainer {
+}
+.topContainer {
+    background: url("https://www.01pessot.it/wp-content/uploads/2016/12/bg-light-blue-01.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     
+}
+.jumbotron{
+    background: url("https://www.01pessot.it/wp-content/uploads/2016/12/bg-light-blue-01.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border: 1px solid black;
+
 }
